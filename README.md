@@ -10,11 +10,11 @@ Consigli del giorno:
 BONUS:
 Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` oppure con la classica concatenazione vista fin'ora) un elemento html con il numero o la stringa corretta da mostrare.
 
-1 - Creare un algoritmo che stampi i numeri da 1 a 100
-2.a - ? il numero è multiplo sia di 3 che di 5
-    3 - si deve stampare la stringa "Fizzbuzz"
-    4.a - ? il numero è multiplo di 5
-        5 - si deve stampare la stringa "Buzz"
-    6.a - ? il numero è multiplo di 3
-        7 - si deve stampare la stringa "Fizz"
-2.b - : il numero non è multiplo di 3 e non è multiplo di 5 => stampo il numero
+1 - Creare un algoritmo che stampi i numeri da 1 a 100;
+2.a - ? il numero è multiplo sia di 3 che di 5;
+    3 - si deve stampare la stringa "Fizzbuzz";
+    4.a - ? il numero è multiplo di 5;
+        5 - si deve stampare la stringa "Buzz";
+    6.a - ? il numero è multiplo di 3;
+        7 - si deve stampare la stringa "Fizz";
+2.b - : il numero non è multiplo di 3 e non è multiplo di 5 => stampo il numero;
